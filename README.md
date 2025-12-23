@@ -6,6 +6,6 @@ This is currently a work in progress, however, I will try to only release comple
 ## Version 0.0: Creating the Workspace
 Work in Progress as of 23 December 2025.
   Planned:
-  > Window to work in
-  > Basic file import and export functions
-  > Anything else I think of   
+  * Window to work in.
+  * Basic file import and export functions.
+  * Anything else I think of.
