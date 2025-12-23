@@ -1,4 +1,4 @@
-# Lars-Real-Time-iRacing-Telemetry
+# Lars' Real Time iRacing Telemetry
 Hello! This is my take on a real-time iRacing Telemetry data collection and analysis software.
 
 This is currently a work in progress, however, I will try to only release completed versions.
